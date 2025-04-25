@@ -1,0 +1,11 @@
+{
+  "hash": "4b57ec70aebf7d167b2cddeeb8385bed",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Report\"\nsubtitle: \"xxx\"\nauthor: \"Pulkit Garg\"\necho: false # to hide the code\ntoc: true # table of contents  \n\nformat:\n    pdf: default \n---\n\n\n# Title\n\n<!-- ## Sub-title\n\n\n\n## Sub-title 2\n\nshit -->\n\n::: {.cell execution_count=2}\n\n::: {.cell-output .cell-output-display}\n```\nUnable to display output for mime type(s): text/html\n```\n:::\n\n::: {.cell-output .cell-output-display}\n```\nUnable to display output for mime type(s): text/html\n```\n:::\n:::\n\n\n### Sub-title 3 \n\nThe windshield is bigger than the rear view mirror for a reason\n\n",
+    "supporting": [
+      "report_files/figure-pdf"
+    ],
+    "filters": []
+  }
+}
